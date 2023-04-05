@@ -1,7 +1,7 @@
 library(dplyr)
 library(ggplot2)
+library(stringr)
 library(tidyr)
-library(tidycensus)
 
 #-------------------------------------------------------------------------------
 # Import and clean dataset
